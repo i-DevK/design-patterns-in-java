@@ -1,4 +1,4 @@
-package creational.Factory.entities;
+package creational.factorymehod.entities;
 
 public class Phone extends Notification {
     private int mobileNumber;

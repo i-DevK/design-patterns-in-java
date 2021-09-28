@@ -1,4 +1,4 @@
-package creational.Factory.entities;
+package creational.factorymehod.entities;
 
 public class Push extends Notification {
     private String device;

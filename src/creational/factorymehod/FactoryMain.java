@@ -1,6 +1,8 @@
-package creational.Factory;
+package creational.factorymehod;
 
-import creational.Factory.entities.Notification;
+import creational.factorymehod.entities.Notification;
+import creational.factorymehod.enums.NotificationType;
+import creational.factorymehod.factories.NotificationFactory;
 
 public class FactoryMain {
     public static void main(String[] args) {

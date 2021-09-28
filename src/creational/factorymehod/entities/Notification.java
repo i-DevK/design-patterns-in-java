@@ -1,4 +1,4 @@
-package creational.Factory.entities;
+package creational.factorymehod.entities;
 
 public abstract class Notification {
     private String message;

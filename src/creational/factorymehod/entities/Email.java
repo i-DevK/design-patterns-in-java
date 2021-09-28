@@ -1,4 +1,4 @@
-package creational.Factory.entities;
+package creational.factorymehod.entities;
 
 public class Email extends Notification {
     private String address;

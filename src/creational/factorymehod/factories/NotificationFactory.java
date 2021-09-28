@@ -1,9 +1,10 @@
-package creational.Factory;
+package creational.factorymehod.factories;
 
-import creational.Factory.entities.Email;
-import creational.Factory.entities.Notification;
-import creational.Factory.entities.Phone;
-import creational.Factory.entities.Push;
+import creational.factorymehod.entities.Email;
+import creational.factorymehod.entities.Notification;
+import creational.factorymehod.entities.Phone;
+import creational.factorymehod.entities.Push;
+import creational.factorymehod.enums.NotificationType;
 
 public class NotificationFactory {
 
